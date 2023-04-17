@@ -20,4 +20,4 @@ Amo conhecer coisas novas e me aprofundar nelas. Estou buscando me aperfeiçoar 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielpvp22)](https://github.com/anuraghazra/github-readme-stats)
